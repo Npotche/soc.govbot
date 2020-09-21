@@ -1,5 +1,6 @@
 # soc.govbot
-Downloads soc.got financial reports
+Downloads soc.got financial reports.
+Quick dirty bot
 
 # Usage
 rf.exe REPLACEWITHYOURCOMPANYID
